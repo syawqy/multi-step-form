@@ -51,7 +51,7 @@ php artisan key:generate
 
 ### 5. Database Setup
 
-The application is configured to use SQLite by default. The database file is already created at `database/database.sqlite`.
+The application is configured to use SQLite by default.
 
 If you prefer to use MySQL or PostgreSQL, update the `.env` file:
 
