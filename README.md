@@ -2,6 +2,8 @@
 
 A Laravel-based multi-step job application form that allows users to submit their personal information, experience, education, and resume through a guided process.
 
+![Multi-Step Job Application Form](screenshot.png)
+
 ## Features
 
 - **Multi-step form process**: Personal Info → Experience → Education → Resume → Success
@@ -23,7 +25,7 @@ A Laravel-based multi-step job application form that allows users to submit thei
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/syawqy/multi-step-form.git
 cd multi-step-form
 ```
 
